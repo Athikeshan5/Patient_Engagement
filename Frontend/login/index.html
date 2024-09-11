@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doctor-Patient Login System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="form-container">
+      <h2>Login or Sign Up</h2>
+
+      <div id="login-section">
+        <h3>Login</h3>
+        <select id="user-type">
+          <option value="doctor">Doctor</option>
+          <option value="patient">Patient</option>
+        </select>
+        <input type="email" id="login-email" placeholder="Email" required>
+        <input type="password" id="login-password" placeholder="Password" required>
+        <button onclick="login()">Login</button>
+      </div>
+     
+
+      <h2>New user <a href="signup.html">sign up</a></h2>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sign up</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="signup-section">
+            <h3> Sign Up</h3> 
+            <select id="signup-user-type" onchange="showSignupForm()">
+              <option value="doctor">Doctor</option>
+              <option value="patient">Patient</option>
+            </select>
+    
+            <div id="doctor-form" class="visible">
+              <input type="email" id="doctor-email" placeholder="Email" required>
+              <input type="password" id="doctor-password" placeholder="Password" required>
+              <input type="text" id="doctor-name" placeholder="Full Name" required>
+             
+              <h1><a href="doctor_details.html">Fill doctor-detail</a></h1>
+              <button onclick="signup('doctor')">Sign Up as Doctor</button>
+            </div>
+    
+            <div id="patient-form" class="hidden">
+              <input type="email" id="patient-email" placeholder="Email" required>
+              <input type="password" id="patient-password" placeholder="Password" required>
+              <input type="text" id="patient-name" placeholder="Full Name" required>
+           
+              <a href="health_history.html">Fill Health History </a>
+              <button onclick="signup('patient')">Sign Up as Patient</button>
+            </div>
+   
+  </div>
+  <script src="script.js"></script>
+  </body>
+  </html>
