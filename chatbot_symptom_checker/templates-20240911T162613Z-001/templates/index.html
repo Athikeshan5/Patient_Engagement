@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Chatbot</title>
+    <link rel="icon" href="../static/bot-mini.png" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+
+<body>
+    <div id="container" class="container">
+        <div id="chat" class="chat">
+            <div id="messages" class="messages"></div>
+            <input id="input" type="text" placeholder="Say something..." autocomplete="off" autofocus="true" />
+        </div>
+        <img src="{{ url_for('static', filename='bot.png') }}" alt="Robot cartoon" height="500vh">
+    </div>
+</body>
+<script type="text/javascript" src="{{ url_for('static', filename='index.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='constants.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='speech.js') }}"></script>
+
+</html>

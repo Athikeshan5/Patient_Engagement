@@ -1,0 +1,136 @@
+Name,Specialization,Location,,,,contact info,disease,symptoms
+Dr. John Doe,Cardiologist,Heart Health Clinic,,,,(555) 123-4567,Heart Disease; Hypertension; Coronary Artery Disease,Shortness of Breath; Chest Pain; Palpitations
+Dr. Jane Smith,Neurologist,Brainwave Center,,,,(555) 234-5678,Migraines; Stroke; Epilepsy,Headaches; Numbness; Seizures
+Dr. Richard Roe,Oncologist,Cancer Care Institute,,,,(555) 345-6789,Breast Cancer; Lung Cancer; Ovarian Cancer,Masses; Fatigue; Coughing
+Dr. Emily Brown,Gastroenterologist,Digestive Wellness Clinic,,,,(555) 456-7890,Peptic Ulcers; IBS; Hepatitis,Abdominal Pain; Nausea; Diarrhea
+Dr. Olivia Green,Orthopedic Surgeon,Elite Orthopedics,,,,(555) 567-8901,Spinal Disorders; Joint Replacement; Sports Injuries,Pain; Swelling; Reduced Movement
+Dr. Michael Johnson,Endocrinologist,Endocrine Health Center,,,,(555) 678-9012,Type 2 Diabetes; Thyroid Disorders; Hormonal Imbalances,Fatigue; Weight Changes; Frequent Urination
+Dr. Sophia White,Allergist,Allergy Relief Center,,,,(555) 789-0123,Food Allergies; Allergic Rhinitis; Eczema,Sneezing; Itchy Eyes; Skin Rash
+Dr. Daniel Miller,Internal Medicine,Primary Health Clinic,,,,(555) 890-1234,Chronic Illnesses; Preventive Medicine; General Health,Fatigue; Dizziness; Persistent Cough
+Dr. Ava Taylor,Obstetrician-Gynecologist,Maternity Health Clinic,,,,(555) 901-2345,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Lucas Brown,Cardiologist,Heart Wellness Clinic,,,,(555) 012-3456,Hypertension; Heart Failure; Coronary Artery Disease,Shortness of Breath; Chest Pain; Palpitations
+Dr. Mia Davis,Neurologist,Brainwave Center,,,,(555) 123-4567,Parkinson's Disease; Seizures; Stroke,Tremors; Weakness; Difficulty Speaking
+Dr. Noah Wilson,Oncologist,Cancer Support Center,,,,(555) 234-5678,Lung Cancer; Breast Cancer; Leukemia,Coughing; Fatigue; Masses
+Dr. Isabella Scott,Gastroenterologist,Digestive Health Institute,,,,(555) 345-6789,GERD; Colitis; Hepatitis,Nausea; Abdominal Pain; Diarrhea
+Dr. James Harris,Endocrinologist,Metabolic Health Center,,,,(555) 456-7890,Type 1 Diabetes; Thyroid Disorders; Hormonal Imbalances,Frequent Urination; Weight Loss; Fatigue
+Dr. Emma Clark,Allergist,Allergy Solutions Clinic,,,,(555) 567-8901,Seasonal Allergies; Food Allergies; Drug Allergies,Itchy Eyes; Sneezing; Hives
+Dr. Liam Turner,Internal Medicine,Comprehensive Health Clinic,,,,(555) 678-9012,Chronic Conditions; General Health; Preventive Care,Fatigue; Persistent Cough; Dizziness
+Dr. Zoe Allen,Obstetrician-Gynecologist,Women's Health Clinic,,,,(555) 789-0123,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Jack Anderson,Orthopedic Surgeon,Top Orthopedics,,,,(555) 890-1234,Joint Replacement; Spinal Disorders; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Olivia Martinez,Dermatologist,Perfect Skin Clinic,,,,(555) 901-2345,Acne; Psoriasis; Eczema,Rashes; Itching; Dry Skin
+Dr. Ethan King,Cardiologist,Heart Health Clinic,,,,(555) 012-3456,Coronary Artery Disease; Hypertension; Heart Failure,Shortness of Breath; Chest Pain; Palpitations
+Dr. Ava White,Neurologist,Neurocare Center,,,,(555) 123-4567,Stroke; Epilepsy; Migraines,Headaches; Numbness; Seizures
+Dr. Daniel Smith,Oncologist,Cancer Care Institute,,,,(555) 234-5678,Breast Cancer; Lung Cancer; Ovarian Cancer,Masses; Fatigue; Coughing
+Dr. Mia Lewis,Gastroenterologist,Digestive Health Institute,,,,(555) 345-6789,IBS; Hepatitis; Crohn’s Disease,Abdominal Pain; Nausea; Diarrhea
+Dr. Lucas Evans,Endocrinologist,Endocrine Health Clinic,,,,(555) 456-7890,Type 2 Diabetes; Thyroid Disorders; Hormonal Imbalances,Fatigue; Weight Changes; Frequent Urination
+Dr. Zoe Clark,Allergist,Allergy Relief Center,,,,(555) 567-8901,Food Allergies; Allergic Rhinitis; Eczema,Sneezing; Itchy Eyes; Skin Rash
+Dr. Jack Brown,Internal Medicine,Primary Health Clinic,,,,(555) 678-9012,Chronic Illnesses; General Health; Preventive Medicine,Fatigue; Persistent Cough; Headaches
+Dr. Emily Johnson,Obstetrician-Gynecologist,Maternity & Women's Health Center,,,,(555) 789-0123,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Olivia Roberts,Orthopedic Surgeon,Elite Orthopedics,,,,(555) 890-1234,Joint Replacement; Spinal Disorders; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. James Lee,Dermatologist,Clear Skin Clinic,,,,(555) 901-2345,Acne; Rosacea; Skin Infections,Rashes; Itching; Redness
+Dr. Ava Thompson,Cardiologist,Heart Wellness Clinic,,,,(555) 012-3456,Hypertension; Coronary Artery Disease; Heart Failure,Shortness of Breath; Chest Pain; Palpitations
+Dr. Daniel White,Neurologist,Neurocare Center,,,,(555) 123-4567,Stroke; Migraines; Epilepsy,Headaches; Numbness; Seizures
+Dr. Mia Green,Oncologist,Cancer Support Center,,,,(555) 234-5678,Lung Cancer; Leukemia; Breast Cancer,Fatigue; Masses; Coughing
+Dr. Liam Johnson,Gastroenterologist,Digestive Wellness Clinic,,,,(555) 345-6789,GERD; Crohn’s Disease; Hepatitis,Nausea; Abdominal Pain; Diarrhea
+Dr. Zoe White,Endocrinologist,Endocrine Solutions Clinic,,,,(555) 456-7890,Thyroid Disorders; Type 2 Diabetes; Hormonal Imbalances,Fatigue; Weight Loss; Frequent Urination
+Dr. Jack Smith,Allergist,Allergy Institute,,,,(555) 567-8901,Seasonal Allergies; Food Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
+Dr. Emily Harris,Internal Medicine,Comprehensive Health Clinic,,,,(555) 678-9012,Preventive Medicine; Chronic Conditions; General Health,Fatigue; Headaches; Persistent Cough
+Dr. Lucas Wilson,Obstetrician-Gynecologist,Family Health Clinic,,,,(555) 789-0123,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Ava Johnson,Orthopedic Surgeon,Top Orthopedics,,,,(555) 890-1234,Spinal Disorders; Joint Replacement; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Olivia Miller,Dermatologist,Clear Skin Clinic,,,,(555) 901-2345,Acne; Rosacea; Eczema,Rashes; Dry Skin; Itching
+Dr. James Brown,Cardiologist,Heart Wellness Clinic,,,,(555) 123-4567,Heart Disease; Hypertension; Coronary Artery Disease,Chest Pain; Shortness of Breath; Palpitations
+Dr. Emily Green,Neurologist,Neurocare Center,,,,(555) 234-5678,Migraines; Stroke; Epilepsy,Headaches; Numbness; Seizures
+Dr. Daniel Anderson,Oncologist,Cancer Care Institute,,,,(555) 345-6789,Breast Cancer; Lung Cancer; Ovarian Cancer,Fatigue; Masses; Coughing
+Dr. Mia Thompson,Gastroenterologist,Digestive Health Institute,,,,(555) 456-7890,IBS; Hepatitis; Crohn’s Disease,Abdominal Pain; Nausea; Diarrhea
+Dr. Liam Scott,Endocrinologist,Endocrine Health Clinic,,,,(555) 567-8901,Type 2 Diabetes; Thyroid Disorders; Hormonal Imbalances,Fatigue; Weight Loss; Frequent Urination
+Dr. Zoe Lewis,Allergist,Allergy Solutions Clinic,,,,(555) 678-9012,Seasonal Allergies; Food Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
+Dr. Jack Green,Internal Medicine,Primary Health Clinic,,,,(555) 789-0123,Chronic Illnesses; General Health; Preventive Medicine,Fatigue; Persistent Cough; Headaches
+Dr. Olivia Brown,Obstetrician-Gynecologist,Maternity Health Clinic,,,,(555) 890-1234,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. James White,Orthopedic Surgeon,Elite Orthopedics,,,,(555) 901-2345,Spinal Disorders; Joint Replacement; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Ava Harris,Dermatologist,Perfect Skin Clinic,,,,(555) 012-3456,Acne; Rosacea; Eczema,Rashes; Dry Skin; Itching
+Dr. Daniel White,Cardiologist,Heart Wellness Clinic,,,,(555) 123-4567,Heart Disease; Hypertension; Coronary Artery Disease,Chest Pain; Shortness of Breath; Palpitations
+Dr. Mia Davis,Neurologist,Neurocare Center,,,,(555) 234-5678,Parkinson's Disease; Seizures; Stroke,Tremors; Weakness; Difficulty Speaking
+Dr. Liam Evans,Oncologist,Cancer Support Center,,,,(555) 345-6789,Lung Cancer; Leukemia; Breast Cancer,Fatigue; Masses; Coughing
+Dr. Zoe Johnson,Gastroenterologist,Digestive Wellness Clinic,,,,(555) 456-7890,GERD; Colitis; Hepatitis,Nausea; Abdominal Pain; Diarrhea
+Dr. Jack Smith,Endocrinologist,Endocrine Solutions Clinic,,,,(555) 567-8901,Thyroid Disorders; Diabetes; Hormonal Imbalances,Fatigue; Weight Changes; Frequent Urination
+Dr. Olivia Clark,Allergist,Allergy Institute,,,,(555) 678-9012,Food Allergies; Seasonal Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
+Dr. James Brown,Internal Medicine,Comprehensive Health Clinic,,,,(555) 789-0123,Chronic Illnesses; General Health; Preventive Care,Fatigue; Persistent Cough; Headaches
+Dr. Emily Green,Obstetrician-Gynecologist,Women's Health Clinic,,,,(555) 890-1234,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Daniel Anderson,Orthopedic Surgeon,Top Orthopedics,,,,(555) 901-2345,Joint Replacement; Spinal Disorders; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Ava Johnson,Dermatologist,Clear Skin Clinic,,,,(555) 012-3456,Acne; Psoriasis; Eczema,Rashes; Dry Skin; Itching
+Dr. Jack Brown,Cardiologist,Heart Wellness Clinic,,,,(555) 123-4567,Hypertension; Coronary Artery Disease; Heart Failure,Shortness of Breath; Chest Pain; Palpitations
+Dr. Mia Davis,Neurologist,Neurocare Center,,,,(555) 234-5678,Migraines; Stroke; Epilepsy,Headaches; Numbness; Seizures
+Dr. Liam Scott,Oncologist,Cancer Support Center,,,,(555) 345-6789,Breast Cancer; Lung Cancer; Ovarian Cancer,Fatigue; Masses; Coughing
+Dr. Zoe Miller,Gastroenterologist,Digestive Health Institute,,,,(555) 456-7890,IBS; Hepatitis; Crohn’s Disease,Abdominal Pain; Nausea; Diarrhea
+Dr. Olivia White,Endocrinologist,Endocrine Health Clinic,,,,(555) 567-8901,Type 2 Diabetes; Thyroid Disorders; Hormonal Imbalances,Fatigue; Weight Changes; Frequent Urination
+Dr. Jack Clark,Allergist,Allergy Solutions Clinic,,,,(555) 678-9012,Food Allergies; Seasonal Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
+Dr. Emily Johnson,Internal Medicine,Primary Health Clinic,,,,(555) 789-0123,Chronic Conditions; General Health; Preventive Medicine,Fatigue; Persistent Cough; Headaches
+Dr. Daniel Smith,Obstetrician-Gynecologist,Maternity Health Clinic,,,,(555) 890-1234,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Mia Anderson,Orthopedic Surgeon,Top Orthopedics,,,,(555) 901-2345,Spinal Disorders; Joint Replacement; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Zoe Clark,Dermatologist,Clear Skin Clinic,,,,(555) 012-3456,Acne; Rosacea; Eczema,Rashes; Dry Skin; Itching
+Dr. Jack Brown,Cardiologist,Heart Wellness Clinic,,,,(555) 123-4567,Heart Disease; Hypertension; Coronary Artery Disease,Shortness of Breath; Chest Pain; Palpitations
+Dr. Emily Davis,Neurologist,Neurocare Center,,,,(555) 234-5678,Migraines; Epilepsy; Stroke,Headaches; Numbness; Seizures
+Dr. Liam Johnson,Oncologist,Cancer Support Center,,,,(555) 345-6789,Breast Cancer; Lung Cancer; Ovarian Cancer,Fatigue; Masses; Coughing
+Dr. Zoe Harris,Gastroenterologist,Digestive Health Institute,,,,(555) 456-7890,GERD; Hepatitis; IBS,Nausea; Abdominal Pain; Diarrhea
+Dr. Jack Wilson,Endocrinologist,Endocrine Health Clinic,,,,(555) 567-8901,Thyroid Disorders; Type 2 Diabetes; Hormonal Imbalances,Fatigue; Weight Loss; Frequent Urination
+Dr. Emily Scott,Allergist,Allergy Institute,,,,(555) 678-9012,Food Allergies; Seasonal Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
+Dr. Liam Brown,Internal Medicine,Comprehensive Health Clinic,,,,(555) 789-0123,Chronic Conditions; Preventive Medicine; General Health,Fatigue; Persistent Cough; Headaches
+Dr. Zoe Johnson,Obstetrician-Gynecologist,Women's Health Clinic,,,,(555) 890-1234,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Jack Lee,Orthopedic Surgeon,Elite Orthopedics,,,,(555) 901-2345,Spinal Disorders; Joint Replacement; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Emily Clark,Dermatologist,Perfect Skin Clinic,,,,(555) 012-3456,Acne; Psoriasis; Eczema,Rashes; Dry Skin; Itching
+Dr. Daniel Anderson,Cardiologist,Heart Wellness Clinic,,,,(555) 123-4567,Hypertension; Coronary Artery Disease; Heart Failure,Chest Pain; Shortness of Breath; Palpitations
+Dr. Mia Johnson,Neurologist,Neurocare Center,,,,(555) 234-5678,Migraines; Stroke; Epilepsy,Headaches; Numbness; Seizures
+Dr. Liam Thompson,Oncologist,Cancer Care Institute,,,,(555) 345-6789,Lung Cancer; Breast Cancer; Ovarian Cancer,Fatigue; Masses; Coughing
+Dr. Zoe Green,Gastroenterologist,Digestive Wellness Clinic,,,,(555) 456-7890,IBS; Hepatitis; GERD,Abdominal Pain; Nausea; Diarrhea
+Dr. Jack Smith,Endocrinologist,Endocrine Solutions Clinic,,,,(555) 567-8901,Type 2 Diabetes; Thyroid Disorders; Hormonal Imbalances,Fatigue; Weight Loss; Frequent Urination
+Dr. Emily White,Allergist,Allergy Relief Center,,,,(555) 678-9012,Food Allergies; Seasonal Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
+Dr. Liam Brown,Internal Medicine,Primary Health Clinic,,,,(555) 789-0123,Chronic Conditions; General Health; Preventive Medicine,Fatigue; Persistent Cough; Headaches
+Dr. Zoe Johnson,Obstetrician-Gynecologist,Maternity Health Clinic,,,,(555) 890-1234,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Jack Anderson,Orthopedic Surgeon,Top Orthopedics,,,,(555) 901-2345,Spinal Disorders; Joint Replacement; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Emily Clark,Dermatologist,Clear Skin Clinic,,,,(555) 012-3456,Acne; Psoriasis; Eczema,Rashes; Dry Skin; Itching
+Dr. Daniel Brown,Cardiologist,Heart Wellness Clinic,,,,(555) 123-4567,Heart Disease; Hypertension; Coronary Artery Disease,Shortness of Breath; Chest Pain; Palpitations
+Dr. Mia Green,Neurologist,Neurocare Center,,,,(555) 234-5678,Migraines; Epilepsy; Stroke,Headaches; Numbness; Seizures
+Dr. Liam Davis,Oncologist,Cancer Support Center,,,,(555) 345-6789,Breast Cancer; Lung Cancer; Ovarian Cancer,Fatigue; Masses; Coughing
+Dr. Zoe Clark,Gastroenterologist,Digestive Wellness Clinic,,,,(555) 456-7890,IBS; Hepatitis; GERD,Nausea; Abdominal Pain; Diarrhea
+Dr. Jack Johnson,Endocrinologist,Endocrine Health Clinic,,,,(555) 567-8901,Type 2 Diabetes; Thyroid Disorders; Hormonal Imbalances,Fatigue; Weight Changes; Frequent Urination
+Dr. Emily Wilson,Allergist,Allergy Institute,,,,(555) 678-9012,Food Allergies; Seasonal Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
+Dr. Liam Smith,Internal Medicine,Primary Health Clinic,,,,(555) 789-0123,Chronic Conditions; General Health; Preventive Medicine,Fatigue; Persistent Cough; Headaches
+Dr. Zoe Johnson,Obstetrician-Gynecologist,Maternity Health Clinic,,,,(555) 890-1234,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Jack Brown,Orthopedic Surgeon,Elite Orthopedics,,,,(555) 901-2345,Spinal Disorders; Joint Replacement; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Emily Clark,Dermatologist,Perfect Skin Clinic,,,,(555) 012-3456,Acne; Rosacea; Eczema,Rashes; Dry Skin; Itching
+Dr. Daniel Anderson,Cardiologist,Heart Wellness Clinic,,,,(555) 123-4567,Hypertension; Coronary Artery Disease; Heart Failure,Shortness of Breath; Chest Pain; Palpitations
+Dr. Mia Brown,Neurologist,Neurocare Center,,,,(555) 234-5678,Migraines; Stroke; Epilepsy,Headaches; Numbness; Seizures
+Dr. Liam White,Oncologist,Cancer Support Center,,,,(555) 345-6789,Lung Cancer; Breast Cancer; Ovarian Cancer,Fatigue; Masses; Coughing
+Dr. Zoe Green,Gastroenterologist,Digestive Wellness Clinic,,,,(555) 456-7890,IBS; Hepatitis; GERD,Abdominal Pain; Nausea; Diarrhea
+Dr. Jack Smith,Endocrinologist,Endocrine Solutions Clinic,,,,(555) 567-8901,Type 2 Diabetes; Thyroid Disorders; Hormonal Imbalances,Fatigue; Weight Changes; Frequent Urination
+Dr. Emily Harris,Allergist,Allergy Institute,,,,(555) 678-9012,Food Allergies; Seasonal Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
+Dr. Liam Johnson,Internal Medicine,Primary Health Clinic,,,,(555) 789-0123,Chronic Conditions; General Health; Preventive Medicine,Fatigue; Persistent Cough; Headaches
+Dr. Zoe Smith,Obstetrician-Gynecologist,Maternity Health Clinic,,,,(555) 890-1234,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Jack Brown,Orthopedic Surgeon,Top Orthopedics,,,,(555) 901-2345,Spinal Disorders; Joint Replacement; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Emily Davis,Dermatologist,Perfect Skin Clinic,,,,(555) 012-3456,Acne; Psoriasis; Eczema,Rashes; Dry Skin; Itching
+Dr. Daniel Anderson,Cardiologist,Heart Wellness Clinic,,,,(555) 123-4567,Heart Disease; Hypertension; Coronary Artery Disease,Shortness of Breath; Chest Pain; Palpitations
+Dr. Mia Green,Neurologist,Neurocare Center,,,,(555) 234-5678,Migraines; Epilepsy; Stroke,Headaches; Numbness; Seizures
+Dr. Liam Scott,Oncologist,Cancer Care Institute,,,,(555) 345-6789,Breast Cancer; Lung Cancer; Ovarian Cancer,Fatigue; Masses; Coughing
+Dr. Zoe Miller,Gastroenterologist,Digestive Health Institute,,,,(555) 456-7890,IBS; Hepatitis; GERD,Abdominal Pain; Nausea; Diarrhea
+Dr. Jack Wilson,Endocrinologist,Endocrine Solutions Clinic,,,,(555) 567-8901,Type 2 Diabetes; Thyroid Disorders; Hormonal Imbalances,Fatigue; Weight Changes; Frequent Urination
+Dr. Emily Smith,Allergist,Allergy Relief Center,,,,(555) 678-9012,Food Allergies; Seasonal Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
+Dr. Liam Harris,Internal Medicine,Primary Health Clinic,,,,(555) 789-0123,Chronic Conditions; General Health; Preventive Medicine,Fatigue; Persistent Cough; Headaches
+Dr. Zoe Davis,Obstetrician-Gynecologist,Maternity Health Clinic,,,,(555) 890-1234,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Jack Green,Orthopedic Surgeon,Elite Orthopedics,,,,(555) 901-2345,Spinal Disorders; Joint Replacement; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Emily Brown,Dermatologist,Clear Skin Clinic,,,,(555) 012-3456,Acne; Psoriasis; Eczema,Rashes; Dry Skin; Itching
+Dr. Daniel Johnson,Cardiologist,Heart Wellness Clinic,,,,(555) 123-4567,Heart Disease; Hypertension; Coronary Artery Disease,Chest Pain; Shortness of Breath; Palpitations
+Dr. Mia Scott,Neurologist,Neurocare Center,,,,(555) 234-5678,Migraines; Epilepsy; Stroke,Headaches; Numbness; Seizures
+Dr. Liam Brown,Oncologist,Cancer Support Center,,,,(555) 345-6789,Breast Cancer; Lung Cancer; Ovarian Cancer,Fatigue; Masses; Coughing
+Dr. Zoe Clark,Gastroenterologist,Digestive Wellness Clinic,,,,(555) 456-7890,IBS; Hepatitis; GERD,Abdominal Pain; Nausea; Diarrhea
+Dr. Jack Smith,Endocrinologist,Endocrine Solutions Clinic,,,,(555) 567-8901,Thyroid Disorders; Type 2 Diabetes; Hormonal Imbalances,Fatigue; Weight Changes; Frequent Urination
+Dr. Emily Harris,Allergist,Allergy Solutions Clinic,,,,(555) 678-9012,Food Allergies; Seasonal Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
+Dr. Liam Johnson,Internal Medicine,Primary Health Clinic,,,,(555) 789-0123,Chronic Conditions; General Health; Preventive Medicine,Fatigue; Persistent Cough; Headaches
+Dr. Zoe Smith,Obstetrician-Gynecologist,Maternity Health Clinic,,,,(555) 890-1234,Pregnancy; Menstrual Irregularities; Women's Health,Nausea; Abdominal Pain; Irregular Periods
+Dr. Jack Brown,Orthopedic Surgeon,Elite Orthopedics,,,,(555) 901-2345,Spinal Disorders; Joint Replacement; Sports Injuries,Pain; Reduced Movement; Swelling
+Dr. Emily Davis,Dermatologist,Perfect Skin Clinic,,,,(555) 012-3456,Acne; Psoriasis; Eczema,Rashes; Dry Skin; Itching
+Dr. Daniel Anderson,Cardiologist,Heart Wellness Clinic,,,,(555) 123-4567,Hypertension; Coronary Artery Disease; Heart Failure,Shortness of Breath; Chest Pain; Palpitations
+Dr. Mia Green,Neurologist,Neurocare Center,,,,(555) 234-5678,Migraines; Epilepsy; Stroke,Headaches; Numbness; Seizures
+Dr. Liam Scott,Oncologist,Cancer Care Institute,,,,(555) 345-6789,Breast Cancer; Lung Cancer; Ovarian Cancer,Fatigue; Masses; Coughing
+Dr. Zoe Miller,Gastroenterologist,Digestive Health Institute,,,,(555) 456-7890,IBS; Hepatitis; GERD,Abdominal Pain; Nausea; Diarrhea
+Dr. Jack Wilson,Endocrinologist,Endocrine Health Clinic,,,,(555) 567-8901,Type 2 Diabetes; Thyroid Disorders; Hormonal Imbalances,Fatigue; Weight Changes; Frequent Urination
+Dr. Emily Smith,Allergist,Allergy Institute,,,,(555) 678-9012,Food Allergies; Seasonal Allergies; Drug Allergies,Itchy Eyes; Sneezing; Skin Rash
